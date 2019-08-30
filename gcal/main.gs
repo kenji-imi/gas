@@ -11,7 +11,7 @@ function gcal() {
   //　カレンダーのイベントの期間を指定
   var date = new Date();
   var today = new Date(date.getFullYear(),date.getMonth(),date.getDate(),0,0);　　　
-  var endday = new Date(date.getFullYear(),date.getMonth(),date.getDate()+14,23,59); // 1週間後
+  var endday = new Date(date.getFullYear(),date.getMonth(),date.getDate()+14,23,59); // 2週間後
   
   var event　=　cal.getEvents(today,endday); 
 
