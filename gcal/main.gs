@@ -6,7 +6,7 @@ function gcal() {
   sp.clear();
 
   //　カレンダーをIDで読み込む
-  var cal = CalendarApp.getCalendarById('kenji.imai@gmail.com'); 
+  var cal = CalendarApp.getCalendarById('カレンダーID'); 
 
   //　カレンダーのイベントの期間を指定
   var date = new Date();
