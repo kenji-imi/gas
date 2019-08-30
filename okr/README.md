@@ -4,6 +4,13 @@ reference
 
 - https://qiita.com/tanabee/items/3c17dcdbb8efb7afe212
 
+
+clasp login
+
+```sh
+$ clasp login
+```
+
 create project
 
 ```sh
