@@ -17,3 +17,6 @@ $ clasp open
 ```
 
 create script
+
+- [main.gs](main.gs)
+- [template.html](template.html)
